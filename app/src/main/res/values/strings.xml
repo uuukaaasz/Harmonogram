@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Harmonogramer</string>
+
+    <string name="logo">LOGO</string>
+    <string name="btnAdd">Dodaj zadanie</string>
+    <string name="btnShow">Wyświetl zadania</string>
+    <string name="btnDelete">Usuń zadanie</string>
+    <string name="btnExit">Wyjdź</string>
+
+    <string name="btn_save">Zapisz</string>
+    <string name="btn_delete">Usuń</string>
+    <string name="txt_owner">Wykonawca</string>
+    <string name="txt_file_name">Nazwa pliku</string>
+    <string name="txt_title">Tytuł zadania</string>
+    <string name="txt_date">Data utorzenia</string>
+    <string name="txt_content">Treść zadania</string>
+    <string name="tv_add">Wybierz formę zapisu:</string>
+    <string name="check_ifdone">Zrobione!</string>
+    <string name="btn_confirm">Zatwierdź</string>
+
+    <string name="tv_show">Wybierz typ zadania:</string>
+    <string name="tv_delete">Wybierz zadanie do usunięcia:</string>
+    <string name="tv_delete2">Co chcesz usunąć?</string>
+    <string name="check_del_database">Usuń z bazy danych</string>
+    <string name="check_del_file">Usuń backup z pliku txt</string>
+    <string name="tv_spinner">Zadanie: </string>
+    <string name="rb_todo">Do zrobienia</string>
+    <string name="rb_done">Zrobione</string>
+
+</resources>
+
